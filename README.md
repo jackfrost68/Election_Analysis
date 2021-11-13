@@ -33,9 +33,10 @@ There were a total of 369,711 votes cast.
 
 Below is a breakdown of number of votes and the percetage of total votes for each county in the precinct. 
 
-Jefferson: 10.5% - 38,000
-Denver: 82.8% - 306,055
-Araphoe: 6.7% - 24,801
+
+a. Jefferson: 10.5% - 38,000
+b. Denver: 82.8% - 306,055
+c. Araphoe: 6.7% - 24,801
 
 Denver had the largest number of votes 
 
