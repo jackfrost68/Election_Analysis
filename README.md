@@ -9,46 +9,27 @@ Tom, an employee of the Colorado Board of Elections, and I developed python code
 
 The audited results of the election were as follows; 
 
+![This is an image](https://github.com/jackfrost68/Election_Analysis/blob/c778e22d852be43086a1a741e8175171ac32f3cd/Screen%20Shot%202021-11-13%20at%202.11.50%20PM.png)
 
-Election Results
--------------------------
-Total Votes: 369,711
--------------------------
+1. There were a total of 369,711 votes cast. 
 
-County Votes:
-Jefferson: 10.5%,(38,855)
-Denver: 82.8%,(306,055)
-Arapahoe: 6.7%,(24,801)
-largest_vote_countyCharles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
+2. Below is a breakdown of number of votes and the percetage of total votes for each county in the precinct. 
 
+* Jefferson: 10.5% - 38,000
+* Denver: 82.8% - 306,055
+* Araphoe: 6.7% - 24,801
 
-There were a total of 369,711 votes cast. 
+3. Denver had the largest number of votes 
 
-Below is a breakdown of number of votes and the percetage of total votes for each county in the precinct. 
+4. Below is a breakdown of candidates' results.
+
+* Charles Casper Stockham: 23.0% with 85,213 votes
+* Diana DeGette: 73.8% with 272,892 votes
+* Raymon Anthony Doane: 3.1% with 11,606 votes 
 
 
-a. Jefferson: 10.5% - 38,000
-b. Denver: 82.8% - 306,055
-c. Araphoe: 6.7% - 24,801
-
-Denver had the largest number of votes 
-
-Charles Casper Stockham: 23.0% with 85,213 votes
-Diana DeGette: 73.8% with 272,892 votes
-Raymon Anthony Doane: 3.1% with 11,606 votes 
-
-
-Diana DeGette won the election by 73.8% and 272,892 votes
-
-![This is an image](https://github.com/jackfrost68/stock-analysis/blob/c943018a6875f6aac760901ca297df063b42c8f4/2017.png)
-
+Diana DeGette won the election by 73.8% and 272,892 votes!
 
 
 # Election Audit Summary: 
+The election commission could alter this code to help them find vote fraud e.g. if a vote has voted more than once. Also, the commission can use this for other jurisidictions to help with municipal budgeting. 
